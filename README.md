@@ -7,7 +7,7 @@ This project uses the VoiceRSS api to tell you a good joke in spanish accent.
 # Motivation
 
 This idea came out from [JavaScript Web Projects: 20 Projects to Build Your Portfolio](https://academy.zerotomastery.io/p/javascript-projects)  
-Project 3 of 20
+Project 4 of 20
 
 # Screenshot
 
